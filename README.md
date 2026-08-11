@@ -60,7 +60,7 @@ Vidya Bharati Chinmaya Vidyalaya, Jamshedpur — 12th: 93.0% • 10th: 94.8%
 
 **Competitive Programming**
 
-[LeetCode](https://leetcode.com/) — replace with your profile URL
+[LeetCode](https://leetcode.com/AshDubey)
 
 ---
 
